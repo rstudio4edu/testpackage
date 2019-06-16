@@ -1,3 +1,6 @@
+---
+output: github_document
+---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -5,9 +8,9 @@
 
 ## Installation
 
-You can install this package by running:
+You can install this package by running: 
 
-``` r
+``` {r, eval=FALSE}
 # install.packages("remotes")
 remotes::install_github("rstudio4edu/testpackage")
 ```
