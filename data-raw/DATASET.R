@@ -7,3 +7,4 @@ aggression_behavior <- readr::read_csv(here::here("data-raw", "aggression_behavi
 # Export to `data/` as .rda file
 usethis::use_data(aggression_behavior, overwrite = TRUE) # add overwrite option
 
+use_r("aggression_behavior")
