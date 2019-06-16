@@ -1,6 +1,7 @@
 #' testpackage: A package to demonstrate R package utility for educators
 #' 
-#'
+#' @docType package
+#' @name testpackage
 #' @keywords internal
 "_PACKAGE"
 
