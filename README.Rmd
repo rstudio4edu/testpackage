@@ -14,3 +14,8 @@ You can install this package by running:
 # install.packages("remotes")
 remotes::install_github("rstudio4edu/testpackage")
 ```
+
+The accompanying tutorial for creating this package was rendered in RMarkdown and can be found at
+
+repo: [dcossyleon/firstclasspackage](https://github.com/dcossyleon/firstclasspackage)
+Corresponding rendered tutorial site: [here](https://dcossyleon.github.io/firstclasspackage/)
