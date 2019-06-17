@@ -45,6 +45,5 @@ Complete the code chunk below to determine how many focal subjects belong to eac
 
 ```{r, echo=TRUE}
 
-aggression_behavior %>%
-  
+aggression_behavior %>
 ```
