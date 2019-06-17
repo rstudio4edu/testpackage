@@ -16,6 +16,6 @@ The accompanying tutorial for creating this package was rendered in
 RMarkdown and can be found at
 
 repo:
-[dcossyleon/firstclasspackage](https://github.com/dcossyleon/firstclasspackage)
+[rstudio4edu/firstclasspackage](https://github.com/rstudio4edu/firstclasspackage)
 Corresponding rendered tutorial site:
-[here](https://dcossyleon.github.io/firstclasspackage/)
+[here](https://rstudio4edu.github.io/firstclasspackage/)
