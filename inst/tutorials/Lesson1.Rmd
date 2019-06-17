@@ -1,5 +1,5 @@
 ---
-title: "Lesson1"
+title: "My Title"
 output: learnr::tutorial
 runtime: shiny_prerendered
 ---
