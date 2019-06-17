@@ -1,0 +1,50 @@
+---
+title: "Worksheet 1"
+author: "Your Name"
+date: "The Date"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Instructions
+
+* Update the author and date fields of this .Rmd file above.
+* Click `Knit`.
+* Save this .Rmd file using the naming convention specified in class.
+
+You will need to load the following libraries to complete this worksheet:
+```{r, message= FALSE}
+library(testpackage)
+library(tidyverse)
+
+```
+
+## Exercise 1
+
+Inspect the dataset `aggression_behavior` and identify the maximum value for the variable `chase_all`.
+
+```{r, echo=TRUE}
+
+```
+
+## Exercise 2
+
+Create a simple histogram of the `birthyr` variable.
+
+```{r, echo=TRUE}
+
+```
+
+
+## Exercise 3
+
+Complete the code chunk below to determine how many focal subjects belong to each `rank`.
+
+```{r, echo=TRUE}
+
+aggression_behavior %>%
+  
+```
