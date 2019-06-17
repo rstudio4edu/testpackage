@@ -12,10 +12,7 @@ You can install this package by running:
 remotes::install_github("rstudio4edu/testpackage")
 ```
 
-The accompanying tutorial for creating this package was rendered in
-RMarkdown and can be found at
+The accompanying tutorial for creating this package was rendered using RMarkdown and can be found at:
 
-repo:
-[rstudio4edu/firstclasspackage](https://github.com/rstudio4edu/firstclasspackage)
-Corresponding rendered tutorial site:
-[here](https://rstudio4edu.github.io/firstclasspackage/)
+* repo: rstudio4edu/firstclasspackage
+* Corresponding rendered tutorial site: [here](https://rstudio4edu.github.io/firstclasspackage/)
