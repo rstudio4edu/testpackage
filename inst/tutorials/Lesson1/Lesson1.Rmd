@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Topic 1
 
-### Exercise 
+### Exercise
 
 *Here's a simple exercise with an empty code chunk provided for entering the answer.*
 
